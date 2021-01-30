@@ -21,10 +21,13 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@metamask/inpage-provider": "^8.0.3",
     "@rollup/plugin-commonjs": "^15.0.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@types/jest": "^26.0.13",
+    "eth-json-rpc-middleware": "^6.0.0",
     "jest": "^26.4.2",
+    "json-rpc-engine": "^6.1.0",
     "rollup": "^2.26.9",
     "rollup-plugin-typescript2": "^0.27.2",
     "ts-jest": "^26.3.0",
